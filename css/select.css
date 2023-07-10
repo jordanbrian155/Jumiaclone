@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: o;
+}
+
+.phones {
+    display: flex;
+    flex-direction: column;
+    
+}
+#quantity {
+    /* margin-bottom: 20%; */
+    margin-right: 11%;
+}
+#Total {
+    margin-left: 10%;
+}
+#location {
+    /* margin-bottom: 10%; */
+    margin-right: 17%;
+}
